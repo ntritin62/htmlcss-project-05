@@ -4,4 +4,4 @@ https://www.figma.com/file/svdGvLdW7PlSDa2cKZYNup/03.-Dental-Care-Landing-Page-(
 
 
 Deploy link: 
-https://ntritin62.github.io/f8-htmlcss-03/
+https://ntritin62.github.io/htmlcss-project-05/
